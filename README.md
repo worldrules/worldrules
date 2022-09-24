@@ -22,12 +22,6 @@ I have good knowledge of:
 - Nodejs (Express, Nest.js, Graphql, Prisma);
 - Unit testing (Jest);
 
-Education:
-- RSSchool JavaScript/Front-end 2021Q3 (6 months);
-- RSSchool Angular 2022Q1(2 month);
-- RSSchool Node.js (2 month);
-- ServiceNow EPAM Training (2month);
-
 Main Work Tools:
 - VS Code;
 - Webpack;
