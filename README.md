@@ -8,7 +8,7 @@
   </a>
 </div>
 
-- 1.5 years of using Javascript to build websites and SPAs;
+- 4 years of using Javascript to build websites and SPAs;
 - Creating static and responsive cross-browser websites with a lot of CSS3 and Javascript animations;
 - Team Development of Single Page Applications;
 - Work and creation of REST APIs;
